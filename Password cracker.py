@@ -1,5 +1,6 @@
 from random import *
 gueses = 0
+print("use only:abcdefghijklnoprstuwxyzvq")
 user_pass = input("Enter your password:")
 password = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j','k', 
             'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't','u','v', 
